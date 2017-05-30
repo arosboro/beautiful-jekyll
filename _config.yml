@@ -93,7 +93,7 @@ url-pretty: "https://bitcoinfundingteam.com/ref/arosboro"  # eg. "deanattali.com
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-100146964-1"
 
 # Google Tag Manager ID
 #gtm: ""
