@@ -22,7 +22,7 @@ Here are answers to some questions you may have about this type of marketing str
 Do I have to sign up referrals?
 
 ### Answer
-You will need two make referrals. They need to pay the same donation fee as
+You will need to make two referrals. They need to pay the same donation fee as
 you did at first, and will have the same opportunities as you to sign up
 referrals which are shared with your team.  The 2 x 5 matrix has five levels,
 and starts with two referrals sending donations.  As each level increases, the
