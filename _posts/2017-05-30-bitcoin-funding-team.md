@@ -12,7 +12,7 @@ monthly platform fee of .008 BTC, and an initial donation of .1 BTC.
 *TLDR*  
 You pay up .108 BTC to join, and start earning positive returns after
 recruiting two people and paying an additional .2 BTC (covered by the new
-members).  If interested, join my team using this [Bitcoin Funding Team Referral Link](https://bitcoinfundingteam.com/ref/arosboro){:onclick="trackOutboundLink('https://bitcoinfundingteam.com/ref/arosboro'); return false;"}
+members).  If interested, join my team using this [Bitcoin Funding Team Referral Link](https://bitcoinfundingteam.com/ref/arosboro){:onclick="trackOutboundLink('https://bitcoinfundingteam.com/ref/arosboro');"}
 
 Here are answers to some questions you may have about this type of marketing strategy:
 
